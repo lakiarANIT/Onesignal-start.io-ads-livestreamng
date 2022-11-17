@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "945827760783",
+    "project_id": "push-notifications-77327",
+    "storage_bucket": "push-notifications-77327.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:945827760783:android:3af40a28e1672e02d07efa",
+        "android_client_info": {
+          "package_name": "com.world.cup.letswatch"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "945827760783-mu3e003mk3sstbv1pt2gtojs8pk1t2nc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBk1hVlhAhvgbsWynbPfnff3Y5yp3B38W8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "945827760783-mu3e003mk3sstbv1pt2gtojs8pk1t2nc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
